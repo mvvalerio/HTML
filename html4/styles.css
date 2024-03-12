@@ -1,0 +1,24 @@
+#main {
+    width: auto;
+}
+
+.colEsq{
+    display: inline-block;
+    width: 30%;
+}
+
+.colDir{
+    display: inline-block;
+    width: 68%;
+    margin: 20px;
+}
+
+.colEsq img{
+    margin: 20px;
+    width: 50%;
+}
+
+.colDir form{
+    text-align: right;
+    
+}

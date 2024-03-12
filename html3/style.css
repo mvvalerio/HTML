@@ -1,0 +1,16 @@
+.row1{
+
+    margin: 0 auto;
+
+}
+
+
+
+
+.row1 .col1{
+
+    margin: auto 0;
+
+    display: inline-block;
+
+}

@@ -1,0 +1,31 @@
+.rowimg{
+    margin: 2% 0 0 2%;
+}
+
+
+.row{
+    width: 100%;
+    padding-top: 2%;
+    margin-left: 2%;
+    margin: 0;
+    text-align: center;
+}
+
+.menu li{
+    display: inline-block;
+    width: 22%;
+    padding: 20px;
+    background: rgb(163, 163, 163);
+}
+
+.menu a{
+    color: white;
+}
+
+.menu li:hover{
+    background: black;
+}
+
+.menu a:hover{
+    color:red;
+}

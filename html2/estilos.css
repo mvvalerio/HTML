@@ -1,0 +1,82 @@
+#main {
+    width: 900px;
+    padding: 20px 40px;
+    margin: 0 auto;
+    background: black;
+    color: green;
+}
+
+#main .row{
+    width: 100%;
+    padding-left: 8px;
+    border: 8px double white;
+}
+
+#main .col50{
+    display: inline-block;
+    width: 49%;
+}
+
+#main p{
+    width: 33.9%;
+    padding-left: 5px;
+    border-bottom: 3px solid olivedrab;
+    border-radius: 9px;
+}
+
+#main h2{
+    width: 35.3%;
+    font-size: 27px;
+}
+
+#main h3{
+    width: 30.2%;
+    padding-left: 5px;
+    border-bottom: 3px solid olivedrab;
+    border-radius: 9px;
+    font-size: 18px;
+}
+
+#main ul{
+    width: 11.2%;
+    border: 3px solid white;
+    padding: 13px;
+    padding-top: 5px;
+    padding-right: 88%;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    background: yellowgreen;
+    color: green;
+}
+
+#main ul li{
+    border-bottom: 2px solid olive;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 4px;
+    padding-top: 6px;
+    margin-right: 39%;
+}
+
+#main ol{
+    width: 11.2%;
+    border: 3px solid white;
+    padding: 13px;
+    padding-top: 5px;
+    padding-right: 88%;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    background: yellowgreen;
+    color: green;
+}
+
+#main ol li{
+    border-bottom: 2px solid olive;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 4px;
+    padding-top: 6px;
+    margin-right: 39%;
+}

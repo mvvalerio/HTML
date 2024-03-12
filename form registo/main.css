@@ -1,0 +1,80 @@
+#main{
+    width: auto;
+    background-color: rgb(196, 196, 196);
+}
+
+.titulo{
+    text-align: center;
+    padding-right: 1.5%;
+}
+
+h4{
+    margin-bottom: 5px;
+}
+
+.row{
+    margin-left: 35.3%;
+    width: 30%;
+    display: inline-block;
+}
+
+.col1{
+    display: inline-block;
+    width: 49%;
+}
+
+.col2{
+    display: inline-block;
+    width: 49%;
+}
+
+.sexo{
+    width: 100%;
+}
+
+form input{
+    width: 100%;
+}
+
+form textarea{
+    width: 98.7%;
+}
+
+.buttons1{
+    display: inline;
+}
+
+form input[type="checkbox"]{
+    display: inline-block;
+    width: auto;
+    padding: 20px;
+}
+
+.border-form{
+    background-color: rgb(201, 115, 115);
+}
+
+
+
+#loader{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -175px;
+    margin-top: -180px;
+    line-height: 200px;
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+    background: rgb(196, 196, 196);
+    border: 2px solid;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#loader .close{
+    position: absolute;
+    top: 10px;
+
+}

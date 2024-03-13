@@ -1,0 +1,16 @@
+body{
+    background: rgb(43, 43, 43);
+    color: white;
+}
+
+.row{
+    margin-bottom: 30px;
+}
+
+.col3{
+    margin-bottom: 5px;
+}
+
+.col3 [input]{
+    margin-top: 10px;
+}

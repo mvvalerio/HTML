@@ -1,0 +1,67 @@
+#main{
+    width: 1780;
+    margin: 0 auto;
+    padding: 15px 25px;
+}
+
+.colleft{
+    display: inline-block;
+    width: 37%;
+}
+
+.colright{
+    display: inline-block;
+    width: 61%;
+}
+
+.col3{
+    display: inline-block;
+    width: 31%;
+}
+
+.colright h1{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.col3 img{
+    display: block;
+    width: 100%;
+}
+
+.col3 a img{
+    display: block;
+    padding: 10px;
+}
+
+.col3 a p{
+    text-align: center;
+    color: black;
+}
+
+.col3 a p:hover{
+    background: gray;
+    color: white;
+    width: 100%;
+}
+
+.menu{
+    margin: 40px 50px 0 0;
+    list-style: none;
+    padding: 0;
+}
+
+.menu a {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.menu a:hover{
+    background: black;
+    color: white;
+    width: 100%;
+}

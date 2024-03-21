@@ -1,5 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
 #main{
-    width: 1780;
+    width: 1280;
     margin: 0 auto;
     padding: 15px 25px;
 }
@@ -7,6 +12,7 @@
 .colleft{
     display: inline-block;
     width: 37%;
+    vertical-align: top;
 }
 
 .colright{
@@ -40,10 +46,8 @@
     color: black;
 }
 
-.col3 a p:hover{
+.col3 a img:hover{
     background: gray;
-    color: white;
-    width: 100%;
 }
 
 .menu{
@@ -57,11 +61,17 @@
     padding: 10px;
     text-align: center;
     border: 2px solid black;
+    color: red;
     border-radius: 10px;
 }
 
 .menu a:hover{
     background: black;
-    color: white;
+    color: rgb(255, 0, 0);
     width: 100%;
+}
+
+form{
+    text-align: right;
+    padding-top: 7%;
 }
